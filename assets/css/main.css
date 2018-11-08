@@ -2544,19 +2544,19 @@ input, select, textarea {
 				#banner .inner header h2 {
 					border-bottom: solid 2px;
 					border-top: solid 2px;
-					font-size: 2.5em;
+					font-size: 2.0em;
 					font-weight: 900;
 					letter-spacing: 0.2em;
 					margin: 0;
 					padding-left: 0.05em;
 					position: relative;
-					text-transform: uppercase;
+					/* text-transform: uppercase; */
 				}
 
 			#banner .inner p {
 				letter-spacing: 0.1em;
 				margin: 0;
-				text-transform: uppercase;
+				/* text-transform: uppercase; */
 			}
 
 				#banner .inner p a {
