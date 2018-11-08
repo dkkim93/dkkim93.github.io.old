@@ -2559,6 +2559,10 @@ input, select, textarea {
                 /* text-transform: uppercase; */
             }
 
+            #banner .inner a {
+                color: inherit;
+            }
+
                 #banner .inner p a {
                     color: inherit;
                     font-weight: 400;
