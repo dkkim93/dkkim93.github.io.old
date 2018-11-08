@@ -2553,10 +2553,6 @@ input, select, textarea {
                     /* text-transform: uppercase; */
                 }
 
-            #banner .inner .row .col-md-5 img {
-                border-radius: 50%;
-            }
-
             #banner .inner p {
                 letter-spacing: 0.1em;
                 margin: 0;
