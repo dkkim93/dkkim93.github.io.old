@@ -2553,7 +2553,7 @@ input, select, textarea {
                     /* text-transform: uppercase; */
                 }
 
-            #banner .inner .row #profile-image {
+            #banner .inner .row .col-md-5 img {
                 border-radius: 50%;
             }
 
