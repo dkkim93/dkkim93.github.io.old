@@ -158,8 +158,18 @@ input, select, textarea {
     }
 
     .special-h4 {
-        margin-bottom: 1em;
+        margin-bottom: 0.2em;
     }
+
+    .research-h4 {
+        font-size: 1.05em;
+    }
+
+    .author-h4 {
+        font-size: 1.0em;
+        margin-bottom: 1.0em;
+    }
+
 
     h2 {
         font-size: 1.5em;
@@ -1871,13 +1881,14 @@ input, select, textarea {
     }
 
         .image:before {
-            background: url("images/overlay.png");
+            /* background: url("images/overlay.png"); 
             content: '';
             height: 100%;
             left: 0;
             position: absolute;
             top: 0;
             width: 100%;
+            */
         }
 
         .image.fit {
@@ -2146,11 +2157,11 @@ input, select, textarea {
         cursor: pointer;
         display: inline-block;
         font-size: 0.8em;
-        font-weight: 900;
+        font-weight: 800;
         letter-spacing: 2px;
-        min-width: 18em;
+        min-width: 9em;
         padding: 0 0.75em;
-        line-height: 3.75em;
+        line-height: 2.75em;
         text-align: center;
         text-decoration: none;
         text-transform: uppercase;
