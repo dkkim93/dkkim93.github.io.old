@@ -154,7 +154,11 @@ input, select, textarea {
         }
 
     .exp h3 {
-        margin-bottom: 0.1em;
+        margin-bottom: 0em;
+    }
+
+    .special-h4 {
+        margin-bottom: 1em;
     }
 
     h2 {
