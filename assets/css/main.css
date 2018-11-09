@@ -142,11 +142,9 @@ input, select, textarea {
 
     h4 {
         color: inherit;
-        font-size: 1.15em;
+        font-size: 1.00em;
         letter-spacing: 0.015em;
         font-weight: 150;
-        margin-bottom: 0.1em;
-        line-height: 1.75em;
     }
 
         h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
