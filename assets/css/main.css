@@ -145,8 +145,8 @@ input, select, textarea {
         font-size: 0.90em;
         letter-spacing: 0.015em;
         font-weight: 150;
-        margin-bottom: 0.1em;
-        line-height: 0.85em;
+        margin-bottom: 1em;
+        line-height: 1.75em;
     }
 
         h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -154,6 +154,10 @@ input, select, textarea {
             text-decoration: none;
             border: 0;
         }
+
+    .exp h3 {
+        text-transform: lowercase;
+    }
 
     h2 {
         font-size: 1.5em;
